@@ -1,0 +1,19 @@
+.navbar{
+    background-image: url('src/assets/img/elm.png');}
+    .navbar a{
+        color: #f2f2f2;
+        font-size: 17px;
+    }
+    .navbar-item{
+        padding: 0 15px;
+        
+    }
+    .navbar-nav a:hover {
+        background-color: #b3f0ff;
+        color: #a6a6a6;
+        
+      }
+    
+    ul.navbar-nav > li > a {
+        line-height: 40px;
+    }
